@@ -2,7 +2,7 @@
 
 ![alt](http://www.papskubber.dk/images/3646.jpg)
 
-* **Créer un mastermind en js avec ou sans l'aide d'un framework**
+## **Créer un mastermind en js avec ou sans l'aide d'un framework**
 
 ## Présentation du Mastermind
 Le Mastermind est un jeu de logique et de déduction qui repose sur un principe très simple : retrouver une combinaison de 4 pions (parmi 8 couleurs possibles) en moins de 10 essais.
