@@ -1,5 +1,7 @@
 # Jeu Mastermind en js
 
+![alt](http://www.papskubber.dk/images/3646.jpg)
+
 * **Créer un mastermind en js avec ou sans l'aide d'un framework**
 
 ## Présentation du Mastermind
